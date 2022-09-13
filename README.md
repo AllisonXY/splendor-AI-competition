@@ -3,5 +3,5 @@ Designed and implemented an Artificial Intelligence agent using Markov Decision 
 
 Authors: Van, K., Cheng, A., Alvarez, J.
 
-Project Wiki is available. 
+Ckeck the Wiki for design choices & experiments. 
 
