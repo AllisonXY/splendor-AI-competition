@@ -1,3 +1,0 @@
-## Challenges  
-
-## Conclusions and Learnings
