@@ -1,7 +1,18 @@
 ## Splendor Cardboard Game AI Agent  
-Designed and implemented an Artificial Intelligence agent using Markov Decision Process, Monte-Carlo Tree Search, heuristics and Multi-armed Bandit. Ranked the top 30% of the class tournament in terms of performance scores.
+This repository contains a Splendor AI player that is used to compete with other AI opponents in pairwise fashion. The agent was developed by Van, K., Cheng, A., and Alvarez, J.
 
-Authors: Van, K., Cheng, A., Alvarez, J.
+### Algorithms used 
+- Markov Decision Process
+- Monte-Carlo Tree Search
+- Multi-armed Bandit (Reinforcement Learning)
+- Heuristics 
 
-Ckeck the Wiki for design choices & experiments. 
+### Wiki
+Check out the [Wiki](https://github.com/AllisonXY/splendor-AI-competition/wiki) for more information on the agent's design choices and experiments.
+
+### Performance 
+In a class tournament of 92 teams, the agent ranked in the top 30% in terms of overall performance score.
+
+
+
 
