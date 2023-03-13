@@ -1,24 +1,27 @@
 ## Splendor Cardboard Game AI Agent  
 This repository contains a [AI player](https://github.com/AllisonXY/splendor-AI-competition/blob/master/agents/Splendid/myTeam.py) that is used to compete with other AI opponents in the [Splendor board game](https://store.steampowered.com/app/376680/Splendor/). The agent was developed by Van, K., Cheng, A., and Alvarez, J.
 
+
 ### Algorithms used 
 - Markov Decision Process
 - Monte-Carlo Tree Search
 - Multi-armed Bandit (Reinforcement Learning)
 - Heuristics 
 
+
 ### Wiki
 Check out the [Wiki](https://github.com/AllisonXY/splendor-AI-competition/wiki) for more information on the agent's design choices and experiments.
+
 
 ### Getting Started
 To get started, clone this repository and run the commands on the terminal:
 
 #### Automatic Mode (Agent vs Agent):
-To change Red or Citrine agents, use -r and -c respectively, along with the agent path. For example: 
+To change Red or Citrine agents, use -r and -c respectively, along with the agent path. For example:   
 $ python3 splendor_runner.py -r agents.Spenlendid.MyTeam -c agents.Spenlendid.MyTeam2
 
 #### Interactive Mode (Human vs Agent):
-Use the argument --interactive. In the game, the Citrine agent will be "Human", and you will be able to select actions each turn.
+Use the argument --interactive. In the game, the Citrine agent will be "Human", and you will be able to select actions each turn.    
 python3 splendor_runner.py -r agents.Splendid.myTeam --interactive
 
 #### Additional Options
