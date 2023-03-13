@@ -22,10 +22,10 @@ $ python3 splendor_runner.py -r agents.Spenlendid.MyTeam -c agents.Spenlendid.My
 
 #### Interactive Mode (Human vs Agent):
 Use the argument --interactive. In the game, the Citrine agent will be "Human", and you will be able to select actions each turn.    
-python3 splendor_runner.py -r agents.Splendid.myTeam --interactive
+$ python3 splendor_runner.py -r agents.Splendid.myTeam --interactive
 
 #### Additional Options
-If the game renders at a resolution that doesn't fit your screen, try using the argument --half-scale. The game runs in windowed mode by default, but can be toggled to fullscreen with F11.
+If the game renders at a resolution that doesn't fit your screen, try using the argument '--half-scale'. The game runs in windowed mode by default, but can be toggled to fullscreen with F11.
 
 
 ### Performance 
